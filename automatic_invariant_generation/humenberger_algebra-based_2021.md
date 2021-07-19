@@ -10,7 +10,7 @@
 **Authors**: Andreas Humenberger and Laura Kovács
 
 # Summary
-Discusses their approach(es) (e.g. Aligator.jl) to generate loop invariants automatically and do the opposite, 
+Discusses their approach(es) (i.e. Aligator.jl) to generate loop invariants automatically and do the opposite, 
 synthesize loops from invariants using loop templates in a analogous manner.
 
 
