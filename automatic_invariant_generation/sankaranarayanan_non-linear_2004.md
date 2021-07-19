@@ -1,7 +1,7 @@
-| title   | Non-Linear Loop Invariant Generation using Gröbner Bases     | 
-|---------|--------------------------------------------------------------| 
-| Authors | Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna   | 
-| Venue   | POPL'04                                                      |
+| **title**   | Non-Linear Loop Invariant Generation using Gröbner Bases     | 
+|-------------|--------------------------------------------------------------| 
+| **Authors** | Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna   | 
+| **Venue**   | POPL'04                                                      |
 
 
 # Summary
