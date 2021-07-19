@@ -1,12 +1,6 @@
-<!-- --- -->
-<!-- title: Linear Invariant Generation Using Non-linear Constraint Solving -->
-<!-- author: Rodothea Myrsini Tsoupidi (tsoupidi@kth.se) -->
-<!-- --- -->
-
-
-
-# Paper Title: Linear Invariant Generation Using Non-linear Constraint Solving
-**Authors**: Michael A. Colón, Sriram Sankaranarayanan, and Henny B. Sipma
+| title                                                            | Authors                                                      |   Venue    |
+| -----------------------------------------------------------------|--------------------------------------------------------------|------------|
+|Linear Invariant Generation Using Non-linear Constraint Solving   |Michael A. Colón, Sriram Sankaranarayanan, and Henny B. Sipma | CAV'03     |
 
 
 
