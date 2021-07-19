@@ -8,7 +8,7 @@
 
 # Summary
 
-**Not read thoroughly because not directly relevant right now**
+**Not read thoroughly because it is not directly relevant right now**
 
 Uses Abstract Interpretation combined with constraint solving to generate polynomial invariants
 avoiding the (costly) calculation of Gröbner bases.
