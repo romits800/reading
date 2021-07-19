@@ -2,7 +2,7 @@
 |---------|-------------------------------------------------------------------------------------------| 
 | Authors | Andreas Humenberger and Laura Kovács                                                      |
 | Venue   | VMCAI'11                                                                                  |
-| Tool    | Aligator.jl [repo](https://github.com/ahumenberger/Aligator.jl.git)                       |
+| Tool    | Aligator.jl in Julia ([repo](https://github.com/ahumenberger/Aligator.jl.git))            |
 
 
 
