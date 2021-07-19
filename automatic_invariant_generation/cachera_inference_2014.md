@@ -1,11 +1,15 @@
 | **Title**   | Inference of Polynomial Invariants for Imperative Programs: A Farewell to Gröbner Bases          |
 |:-----------:|--------------------------------------------------------------------------------------------------| 
-| **Authors** | David Cachera and Thomas Jensen, Arnaud Jobin, and Florent Kirchner                              |
-| **Venue**   | Science of Computer Programming '2014 (Journal)                                                  |
+| **Authors** | David Cachera, Thomas Jensen, Arnaud Jobin, and Florent Kirchner                                 |
+| **Venue**   | SAS'12 and extended in Science of Computer Programming '14 (Journal)                             |
 | **Tool**    | Implemented in ocaml for JAVA programs ([resources](http://www.irisa.fr/celtique/ext/polyinv/))  |
 
 
 
 # Summary
 
+**Not read thoroughly because not directly relevant right now**
+
+Uses Abstract Interpretation combined with constraint solving to generate polynomial invariants
+avoiding the (costly) calculation of Gröbner bases.
 
