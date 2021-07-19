@@ -1,5 +1,6 @@
-# Paper Title: Non-Linear Loop Invariant Generation using Gröbner Bases
-**Authors**: Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna
+| title                                                            | Authors                                                      |   Venue    |
+| -----------------------------------------------------------------|--------------------------------------------------------------|------------|
+|Non-Linear Loop Invariant Generation using Gröbner Bases          |Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna | POPL'04     |
 
 
 # Summary
