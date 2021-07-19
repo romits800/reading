@@ -1,5 +1,8 @@
-# Paper Title: Algorithm Selection for Dynamic Symbolic Execution: A Preliminary Study
-**Authors**: Roberto Amadini, Graeme Gange, Peter Schachte, Harald S\o ndergaard, and Peter J. Stuckey
+| title   | Algorithm Selection for Dynamic Symbolic Execution: A Preliminary Study                   |
+|---------|-------------------------------------------------------------------------------------------| 
+| Authors | Roberto Amadini, Graeme Gange, Peter Schachte, Harald S\o ndergaard, and Peter J. Stuckey |
+| Venue   | LOPSTR'11                                                                                 |
+
 
 
 # Summary
