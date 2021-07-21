@@ -11,6 +11,18 @@
 # Summary
 
 The apprach extends [colon_linear_2003.md](colon_linear_2003.md) to generate 
-constraints for array non-nested loops in the form:
+constraints for programs with arrays.
+The programs are assumed to consist of unnested loops and linear assignments,
+conditions and array accesses and generate invariant of the form:
 
 ![](invariant.png)
+
+## Note 
+The first author is the author of [larraz_hurtado_automatic_2011.md](larraz_hurtado_automatic_2011.md)
+
+The method uses SMT on quantifier-free non-linear integer arithmetics (QF_NIA) theory.
+
+# Evaluation 
+- Generates invariants for a set of twelve single loop programs that manipulate arrays
+- Adds a set of 38 student solutions for a binary-search like algorithm.
+- No time evaluation
