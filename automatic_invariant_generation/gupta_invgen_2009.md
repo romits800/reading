@@ -17,6 +17,6 @@ This improves the generated invariants.
 ## Tool 
 The tool is only available as binary and takes as input the transition system. 
 For generating the transition system from a function in C, they provide a tool performing
-AI that finally generates the transition system that is the input to **InvGen** 
+AI that finally generates the transition system that is the input to **InvGen**.
 
 
