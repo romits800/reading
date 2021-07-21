@@ -40,11 +40,11 @@ Compares with cousot_automatic_1978.md and evaluates on simple
 programs with loops (also nested) like *heapsort*.
 
 - No performance comparison with Abstract Interpretation.
-- According to the SAS'04 paper (sankaranarayanan_constraint_2004.md), 
+- According to the SAS'04 paper ([sankaranarayanan_constraint_2004.md](sankaranarayanan_constraint_2004.md)), 
   this method is complete but very slow.
 
 # Other work
-A master's thesis (see larraz_hurtado_automatic_2011.md) uses SMT
+A master's thesis (see [larraz_hurtado_automatic_2011.md](larraz_hurtado_automatic_2011.md)) uses SMT
 solver to solver this problem and resolves after adding the new
 constraints to the previous system of inequalities to get different
 invariants.
