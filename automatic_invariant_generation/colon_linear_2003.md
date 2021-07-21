@@ -26,10 +26,12 @@ and a constraint solver.
 
 This invariant has the form:
 
-\begin{equation*}
+![equation](http://www.sciweavers.org/tex2img.php?eq=c%5f1%20x%5f1%2b...%2bc%5f%20x%5fn%2bd%5cle%200&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
+<!-- \begin{equation*}
 c_1 * x_1 + ... + c_n * x_n + d \le 0
 \end{equation*}
-
+-->
 
 The constraint model finds solutions for parameters $c_i$ after eliminating
 the variables $x_i$ from the system of equations.
