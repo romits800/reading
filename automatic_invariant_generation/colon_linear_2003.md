@@ -1,8 +1,9 @@
-| **Title**   | Linear Invariant Generation Using Non-linear Constraint Solving  |
-|:-----------:|------------------------------------------------------------------| 
-| **Authors** | Michael A. Colón, Sriram Sankaranarayanan, and Henny B. Sipma    |
-| **Venue**   | CAV'03                                                           |
-| **Tool**    | Not found                                                        |
+| **Title**     | Linear Invariant Generation Using Non-linear Constraint Solving  |
+|:-------------:|------------------------------------------------------------------| 
+| **Authors**   | Michael A. Colón, Sriram Sankaranarayanan, and Henny B. Sipma    |
+| **Venue**     | CAV'03                                                           |
+| **Tool**      | Not found                                                        |
+| **Invariant** | Linear                                                           |
 
 
 

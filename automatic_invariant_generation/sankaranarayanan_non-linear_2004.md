@@ -1,8 +1,8 @@
-| **Title**   | Non-Linear Loop Invariant Generation using Gröbner Bases     | 
-|:-----------:|--------------------------------------------------------------| 
-| **Authors** | Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna   | 
-| **Venue**   | POPL'04                                                      |
-
+| **Title**     | Non-Linear Loop Invariant Generation using Gröbner Bases     | 
+|:-------------:|--------------------------------------------------------------| 
+| **Authors**   | Sriram Sankaranarayanan and Henry B. Sipma and Zohar Manna   | 
+| **Venue**     | POPL'04                                                      |
+| **Invariant** | Polynomial                                                   |
 
 # Summary
 A method to generate *non-linear* (or algebraic) invariants for a program.

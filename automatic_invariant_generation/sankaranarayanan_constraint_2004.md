@@ -1,9 +1,9 @@
-| **Title**   | Constraint-Based Linear-Relations Analysis                                                |
-|:-----------:|-------------------------------------------------------------------------------------------| 
-| **Authors** | Sriram Sankaranarayanan, Henny Sipma, and Zohar Manna                                     |
-| **Venue**   | SAS'04                                                                                    |
-| **Tool**    | Source code: [StinG](https://home.cs.colorado.edu/~srirams/research.html#GROUP)           |
-
+| **Title**     | Constraint-Based Linear-Relations Analysis                                                |
+|:-------------:|-------------------------------------------------------------------------------------------| 
+| **Authors**   | Sriram Sankaranarayanan, Henny Sipma, and Zohar Manna                                     |
+| **Venue**     | SAS'04                                                                                    |
+| **Tool**      | Source code: [StinG](https://home.cs.colorado.edu/~srirams/research.html#GROUP)           |
+| **Invariant** | Linear                                                                                    |
 
 # Summary
 Presents a constraint-based method for deriving loop invariants.

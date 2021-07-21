@@ -1,9 +1,9 @@
-| **Title**   | Algebra-Based Synthesis of Loops and Their Invariants (Invited Paper)                     |
-|:-----------:|-------------------------------------------------------------------------------------------| 
-| **Authors** | Andreas Humenberger and Laura Kovács                                                      |
-| **Venue**   | VMCAI'21                                                                                  |
-| **Tool**    | Aligator.jl in Julia ([repo](https://github.com/ahumenberger/Aligator.jl.git))            |
-
+| **Title**     | Algebra-Based Synthesis of Loops and Their Invariants (Invited Paper)                     |
+|:-------------:|-------------------------------------------------------------------------------------------| 
+| **Authors**   | Andreas Humenberger and Laura Kovács                                                      |
+| **Venue**     | VMCAI'21                                                                                  |
+| **Tool**      | Aligator.jl in Julia ([repo](https://github.com/ahumenberger/Aligator.jl.git))            |
+| **Invariant** | Polynomial                                                                                |
 
 
 # Paper Title: Algebra-Based Synthesis of Loops and Their Invariants (Invited Paper)
