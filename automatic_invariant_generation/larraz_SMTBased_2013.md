@@ -15,7 +15,7 @@ constraints for programs with arrays.
 The programs are assumed to consist of unnested loops and linear assignments
 conditions and array accesses and generate invariant of the form:
 
-![](invariant.png)
+![](figs/invariant.png)
 
 ## Note 
 The first author is the author of [larraz_hurtado_automatic_2011.md](larraz_hurtado_automatic_2011.md)
