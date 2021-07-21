@@ -16,12 +16,12 @@ Defines:
 * Gröbner Basis, G, of an Ideal is a basis that we can use to prove
   that $p \in I$: To find G we use *Bucheberger Algorithm*.
   - library GROEBNER
-  - With this basis all reductions of $p\in I$ will yield a normal form 0, i.e.
-	that $p$ is a member of $I$.
+  - With this basis all reductions of ![equation](http://www.sciweavers.org/tex2img.php?eq=p%5cin%20I&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+ will yield a normal form 0, i.e.
+	that `p` is a member of `I`.
 * *Templates* are parametric polynomials
-* If $\eta$ is an *inductive assertion map*, then $\eta(l)$ is an invariant at
-  position $l$.
-
+* If `η` is an *inductive assertion map*, then `η(l)` is an invariant at
+  position `l`.
 
 ## Constraint Solving
 
