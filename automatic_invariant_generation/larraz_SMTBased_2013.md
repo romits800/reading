@@ -2,7 +2,7 @@
 |:-------------:|----------------------------------------------------------------------------------------------|
 | **Authors**   | Daniel Larraz, Enric Rodríguez-Carbonell and Albert Rubio                                    |
 | **Venue**     | VMCAI'13                                                                                     |
-| **Tool**      | Binary only: [CppInv](www.lsi.upc.edu/~albert/cppinv-bin.tar.gz) contains also array support |
+| **Tool**      | Binary only: [CppInv](www.lsi.upc.edu/~albert/cppinv-bin.tar.gz)                             |
 | **Invariant** | Linear, Array                                                                                |
 
 
@@ -12,7 +12,7 @@
 
 The apprach extends [colon_linear_2003.md](colon_linear_2003.md) to generate 
 constraints for programs with arrays.
-The programs are assumed to consist of unnested loops and linear assignments,
+The programs are assumed to consist of unnested loops and linear assignments
 conditions and array accesses and generate invariant of the form:
 
 ![](invariant.png)
