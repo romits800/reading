@@ -8,7 +8,7 @@
 # Summary
 Presents a constraint-based method for deriving loop invariants.
 Presents a simplification method for solving constraints in the same method described 
-in *colon_linear_2003.md*.
+in [colon_linear_2003.md](colon_linear_2003.md).
 Describes the method and the constraint solving approach for deriving the invariants.
 In same cases, using a previous invariant in the transition system results in stronger invariants.
 

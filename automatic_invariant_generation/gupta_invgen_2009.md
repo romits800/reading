@@ -8,8 +8,8 @@
 
 # Summary
 Tool papper that presents **InvGen**.
-**InvGen** combines the method using Farkas' lemma (*colon_linear_2003.md*) with an abstract interpretation 
-(AI) analysis as frontend (not part of the same tool) that is based on *gupta_tests_2009.md*. 
+**InvGen** combines the method using Farkas' lemma [colon_linear_2003.md](colon_linear_2003.md) with an abstract interpretation 
+(AI) analysis as frontend (not part of the same tool) that is based on [gupta_tests_2009.md](gupta_tests_2009.md). 
 The abstract interpretation analysis step performs sequentially interval, 
 octagon, and polyhedral domain analysis.
 This improves the generated invariants.

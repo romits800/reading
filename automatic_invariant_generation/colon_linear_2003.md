@@ -36,7 +36,7 @@ the variables $x_i$ from the system of equations.
 
 # Evaluation
 
-Compares with cousot_automatic_1978.md and evaluates on simple
+Compares with [cousot_automatic_1978.md](cousot_automatic_1978.md) and evaluates on simple
 programs with loops (also nested) like *heapsort*.
 
 - No performance comparison with Abstract Interpretation.
