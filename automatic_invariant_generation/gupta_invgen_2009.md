@@ -2,9 +2,9 @@
 |:-------------:|-------------------------------------------------------------------------------------------| 
 | **Authors**   | Ashutosh Gupta and Andrey Rybalchenko                                                     |
 | **Venue**     | CAV'09                                                                                    |
-| **Tool**      | Only binary: [InvGen](https://www.cse.iitb.ac.in/~akg/invgen/index.html)                  |
+| **Tool**      | Only binary: [InvGen](https://www.cse.iitb.ac.in/~akg/invgen/index.html)                       |
 | **Invariant** | Linear                                                                                    |
-
+| **Reading Level** | Basic                                                                                 |
 
 # Summary
 Tool papper that presents **InvGen**.
