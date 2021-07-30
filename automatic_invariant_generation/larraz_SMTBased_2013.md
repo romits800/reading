@@ -2,9 +2,9 @@
 |:-------------:|----------------------------------------------------------------------------------------------|
 | **Authors**   | Daniel Larraz, Enric Rodríguez-Carbonell and Albert Rubio                                    |
 | **Venue**     | VMCAI'13                                                                                     |
-| **Tool**      | Binary only: [CppInv](www.lsi.upc.edu/~albert/cppinv-bin.tar.gz)                             |
+| **Tool**      | Binary only: [CppInv](www.lsi.upc.edu/~albert/cppinv-bin.tar.gz)                                 |
 | **Invariant** | Linear, Array                                                                                |
-
+| **Reading level** | Medium                                                                                   |
 
 
 

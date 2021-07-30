@@ -4,6 +4,7 @@
 | **Venue**     | SAS'04                                                                                    |
 | **Tool**      | Source code: [StinG](https://home.cs.colorado.edu/~srirams/research.html#GROUP)           |
 | **Invariant** | Linear                                                                                    |
+| **Reading level** | Medium/High                                                                           |
 
 # Summary
 Presents a constraint-based method for deriving loop invariants.

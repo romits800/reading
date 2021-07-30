@@ -8,4 +8,4 @@
 
 
 # Summary 
-To be added
+Describes the polyhedral domain.

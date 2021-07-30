@@ -4,6 +4,7 @@
 | **Venue**     | POPL'04                                                      |
 | **Tool**      | Not found                                                    |
 | **Invariant** | Polynomial                                                   |
+| **Reading level** | Medium/High                                              |
 
 # Summary
 A method to generate *non-linear* (or algebraic) invariants for a program.
