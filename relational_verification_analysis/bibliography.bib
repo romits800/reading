@@ -18,3 +18,43 @@
 	annote = {Kind of read - Not in depth},
 	file = {Full Text PDF:/home/romi/Zotero/storage/M893ZTSW/Kovács et al. - 2013 - Relational abstract interpretation for the verific.pdf:application/pdf},
 }
+
+
+@inproceedings{unno_constraint_based_relational_verification_2021,
+	address = {Cham},
+	series = {Lecture {Notes} in {Computer} {Science}},
+	title = {Constraint-{Based} {Relational} {Verification}},
+	isbn = {978-3-030-81685-8},
+	doi = {10.1007/978-3-030-81685-8_35},
+	abstract = {In recent years they have been numerous works that aim to automate relational verification. Meanwhile, although Constrained Horn Clauses (CHCsCHCs{\textbackslash}mathrm \{CHCs\}) empower a wide range of verification techniques and tools, they lack the ability to express hyperproperties beyond k-safety such as generalized non-interference and co-termination.This paper describes a novel and fully automated constraint-based approach to relational verification. We first introduce a new class of predicate Constraint Satisfaction Problems called pfwCSPpfwCSP{\textbackslash}mathrm \{pfwCSP\} where constraints are represented as clauses modulo first-order theories over predicate variables of three kinds: ordinary, well-founded, or functional. This generalization over CHCsCHCs{\textbackslash}mathrm \{CHCs\} permits arbitrary (i.e., possibly non-Horn) clauses, well-foundedness constraints, functionality constraints, and is capable of expressing these relational verification problems. Our approach enables us to express and automatically verify problem instances that require non-trivial (i.e., non-sequential and non-lock-step) self-composition by automatically inferring appropriate schedulers (or alignment) that dictate when and which program copies move. To solve problems in this new language, we present a constraint solving method for pfwCSPpfwCSP{\textbackslash}mathrm \{pfwCSP\} based on stratified CounterExample-Guided Inductive Synthesis (CEGIS) of ordinary, well-founded, and functional predicates.We have implemented the proposed framework and obtained promising results on diverse relational verification problems that are beyond the scope of the previous verification frameworks.},
+	language = {en},
+	booktitle = {Computer {Aided} {Verification}},
+	publisher = {Springer International Publishing},
+	author = {Unno, Hiroshi and Terauchi, Tachio and Koskinen, Eric},
+	editor = {Silva, Alexandra and Leino, K. Rustan M.},
+	year = {2021},
+	keywords = {CEGIS, Constraint solving, Relational verification},
+	pages = {742--766},
+	file = {Springer Full Text PDF:/home/romi/Zotero/storage/RWB78Q5B/Unno et al. - 2021 - Constraint-Based Relational Verification.pdf:application/pdf},
+}
+
+
+
+@inproceedings{antonopoulos_decomposition_instead_self_composition_2017,
+	address = {New York, NY, USA},
+	series = {{PLDI} 2017},
+	title = {Decomposition instead of self-composition for proving the absence of timing channels},
+	isbn = {978-1-4503-4988-8},
+	url = {https://doi.org/10.1145/3062341.3062378},
+	doi = {10.1145/3062341.3062378},
+	abstract = {We present a novel approach to proving the absence of timing channels. The idea is to partition the program's execution traces in such a way that each partition component is checked for timing attack resilience by a time complexity analysis and that per-component resilience implies the resilience of the whole program. We construct a partition by splitting the program traces at secret-independent branches. This ensures that any pair of traces with the same public input has a component containing both traces. Crucially, the per-component checks can be normal safety properties expressed in terms of a single execution. Our approach is thus in contrast to prior approaches, such as self-composition, that aim to reason about multiple (k≥ 2) executions at once. We formalize the above as an approach called quotient partitioning, generalized to any k-safety property, and prove it to be sound. A key feature of our approach is a demand-driven partitioning strategy that uses a regex-like notion called trails to identify sets of execution traces, particularly those influenced by tainted (or secret) data. We have applied our technique in a prototype implementation tool called Blazer, based on WALA, PPL, and the brics automaton library. We have proved timing-channel freedom of (or synthesized an attack specification for) 24 programs written in Java bytecode, including 6 classic examples from the literature and 6 examples extracted from the DARPA STAC challenge problems.},
+	urldate = {2021-07-30},
+	booktitle = {Proceedings of the 38th {ACM} {SIGPLAN} {Conference} on {Programming} {Language} {Design} and {Implementation}},
+	publisher = {Association for Computing Machinery},
+	author = {Antonopoulos, Timos and Gazzillo, Paul and Hicks, Michael and Koskinen, Eric and Terauchi, Tachio and Wei, Shiyi},
+	month = jun,
+	year = {2017},
+	keywords = {Timing Attacks, Verification, Blazer, Decomposition, Subtrails},
+	pages = {362--375},
+	file = {Full Text PDF:/home/romi/Zotero/storage/M6KFWPYX/Antonopoulos et al. - 2017 - Decomposition instead of self-composition for prov.pdf:application/pdf},
+}

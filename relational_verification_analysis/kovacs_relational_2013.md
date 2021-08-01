@@ -3,6 +3,7 @@
 | **Authors**   | Máté Kovács, Helmut Seidl and Bernd Finkbeiner                                      |
 | **Venue**     | CCS'13                                                                              |
 | **Tool**      | Not checked properly                                                                |
+| **Rel. Analysis** | 2-hypersafety                                                                   |
 | **Reading Level** | Basic                                                                           |
 
 
