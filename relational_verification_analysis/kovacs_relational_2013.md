@@ -13,7 +13,6 @@
 
 Describes a new abstract interpretation analysis for the verification of
 2-hypersafety properties. 
-%
 Their application if on medical data where the medical values should not 
 interfere with the userdata or affect observations.
 
