@@ -1,6 +1,6 @@
 | **Title**     | Constraint-based Relational Veriification                                                    |
 |:-------------:|----------------------------------------------------------------------------------------------|
-| **Authors**   | Daniel Larraz, Enric Rodríguez-Carbonell and Albert Rubio                                    |
+| **Authors**   | Hiroshi Unno, Tachio Terauchi, and Eric Koskinen              | 
 | **Venue**     | CAV'21                                                                                       |
 | **Tool**      |                                                                                              |
 | **Invariant** | Relational using CEGIS                                                                       |
