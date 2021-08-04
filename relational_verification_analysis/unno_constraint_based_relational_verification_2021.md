@@ -1,4 +1,4 @@
-| **Title**     | Constraint-based Relational Veriification                                                    |
+| **Title**     | Constraint-based Relational Verification                                                    |
 |:-------------:|----------------------------------------------------------------------------------------------|
 | **Authors**   | Hiroshi Unno, Tachio Terauchi, and Eric Koskinen                                             |
 | **Venue**     | CAV'21                                                                                       |
