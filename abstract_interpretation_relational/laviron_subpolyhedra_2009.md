@@ -1,4 +1,4 @@
-| **Title**     | {SubPolyhedra}: A (More) Scalable Approach to Infer Linear Inequalities                                                       |
+| **Title**     | SubPolyhedra: A (More) Scalable Approach to Infer Linear Inequalities                                                         |
 |:-------------:|-------------------------------------------------------------------------------------------------------------------------------|
 | **Authors**   | Vincent Laviron and Francesco Logozzo                                                                                         |
 | **Venue**     | VMCAI'09                                                                                                                      |
